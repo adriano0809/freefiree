@@ -1,4 +1,13 @@
-.cabeçalho{
-background-color: rgb(255, 0, 0);
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+.cabeçalho {
+    background-color: rgb(255, 0, 0);
+    color: fffffff;
+display: flex;
+justify-content: ;
 
 }
